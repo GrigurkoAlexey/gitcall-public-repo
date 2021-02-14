@@ -1,4 +1,4 @@
 module.exports = async (data) => {
-    data.body = "Hello Rebuild!";
+    data.body = "Hello World!";
     return data;
 }; 
